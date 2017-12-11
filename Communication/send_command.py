@@ -3,7 +3,7 @@ import sys
 
 protocol = STMprotocol(sys.argv[1])
 
-cmd = int(argv[2])
+cmd = int(sys.argv[2])
 parameters = []
 
 if cmd == 1:
