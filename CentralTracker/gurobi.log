@@ -1,0 +1,120 @@
+
+Gurobi 7.5.1 (win64, Python) logging started 01/27/18 02:44:55
+
+Optimize a model with 12 rows, 36 columns and 72 nonzeros
+Variable types: 0 continuous, 36 integer (36 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+03, 1e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 65141.3
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.04s
+Presolved: 12 rows, 35 columns, 70 nonzeros
+Variable types: 0 continuous, 35 integer (35 binary)
+
+Root relaxation: objective 2.097406e+04, 10 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    20974.064017 20974.0640  0.00%     -    0s
+
+Explored 0 nodes (10 simplex iterations) in 0.20 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 20974.1 65141.3 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.097406401716e+04, best bound 2.097406401716e+04, gap 0.0000%
+
+    Variable            x 
+-------------------------
+      x[0,2]            1 
+      x[1,0]            1 
+      x[2,3]            1 
+      x[3,4]            1 
+      x[4,1]            1 
+      x[5,5]            1 
+Optimize a model with 12 rows, 36 columns and 72 nonzeros
+Variable types: 0 continuous, 36 integer (36 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+03, 1e+05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 65141.3
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.00s
+Presolved: 12 rows, 35 columns, 70 nonzeros
+Variable types: 0 continuous, 35 integer (35 binary)
+
+Root relaxation: objective 2.097406e+04, 10 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    20974.064017 20974.0640  0.00%     -    0s
+
+Explored 0 nodes (10 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 20974.1 65141.3 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.097406401716e+04, best bound 2.097406401716e+04, gap 0.0000%
+Optimize a model with 56 rows, 784 columns and 1568 nonzeros
+Variable types: 0 continuous, 784 integer (784 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e+01, 1e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 1.02665e+07
+Presolve time: 0.02s
+Presolved: 56 rows, 784 columns, 1568 nonzeros
+Variable types: 0 continuous, 784 integer (784 binary)
+
+Root relaxation: objective 4.430344e+05, 67 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    443034.44261 443034.443  0.00%     -    0s
+
+Explored 0 nodes (67 simplex iterations) in 0.05 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 443034 1.02665e+07 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.430344426120e+05, best bound 4.430344426120e+05, gap 0.0000%
+Optimize a model with 56 rows, 784 columns and 1568 nonzeros
+Variable types: 0 continuous, 784 integer (784 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [7e+00, 1e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 2587.56
+
+Presolve time: 0.00s
+Presolved: 56 rows, 784 columns, 1568 nonzeros
+Variable types: 0 continuous, 784 integer (784 binary)
+
+Root relaxation: objective 2.126443e+03, 63 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2126.4425147 2126.44251  0.00%     -    0s
+
+Explored 0 nodes (63 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 2126.44 2587.56 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.126442514709e+03, best bound 2.126442514709e+03, gap 0.0000%
