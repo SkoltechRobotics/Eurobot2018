@@ -1,0 +1,52 @@
+<link rel="stylesheet" href="/themes/default/css/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/themes/default/css/site_default.css" type="text/css" media="screen" />
+<div align=center>
+<table style="width: 700; height: 500; " border="3px">
+	<tr>
+		 <td style="width: 250px; height: 150px;">
+			<img src="/themes/default/images/logo.png">
+			</td>
+				<td align=center><div class="title" style="text-align: center; padding-top: 40px; width: 350px""><b>Информация об оплате услуг<br>
+				посредством интернет-эквайринга</b></div></td>
+	</tr>
+	<tr>
+		<td style="padding-left: 5px;">Дата: </td>
+		<td style="padding-left: 5px;">2018-05-04 18:19:36</td>
+	</tr>
+	<tr >
+		<td style="padding-top: 25px; padding-left: 5px;">Терминал: </td>
+		<td style="padding-top: 25px; padding-left: 5px;"><a href="https://cabinet.rc-online.ru">https://cabinet.rc-online.ru</a></td>
+	</tr>
+	<tr>
+		<td style="padding-top: 25px; padding-left: 5px;">Сумма операции</td>
+		<td style="padding-top: 25px; padding-left: 5px;">19312.66</td>
+	</tr>
+	<tr>
+		<td style="padding-left: 5px;"" align=right><div align=left>в том числе:</div></br>Комиссия: </td>
+		<td style="padding-top: 38px; padding-left: 5px;">318.66</td>
+	</tr>
+	<tr>
+		<td style="padding-top: 25px;"align=right>Перевод: </td>
+		<td style="padding-top: 25px; padding-left: 5px;">18994.00</td>
+	</tr>
+	<tr>
+		<td style="padding-top: 20px; padding-left: 5px;" colspan=2>Реквизиты получателя перевода:
+		<div>Лицевой счет:
+		1006116677</div>
+		<div>Плательщик:
+		Якунин Владимир Владимирович</div>
+		<div style="padding-top: 20px;">Реквизиты платежа:</div>
+		<div>Сумма:
+		19312.66</div>
+		<div>Назначение: &laquo;Оплата коммунальных услуг 
+		ТСЖ Трехгорка по ЛС: 1006116677&raquo;</div>
+		Код учета перевода:161596080
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" align=center style="padding-top: 25px;"><span style="color: blue">Спасибо за своевременную оплату!</span></br>
+		Благодарим за посещение нашего сайта!</td>
+	</tr>
+</table>
+
+</div>
